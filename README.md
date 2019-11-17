@@ -1,0 +1,2 @@
+# SkyCoin
+Skycoin
